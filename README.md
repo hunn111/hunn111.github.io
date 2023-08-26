@@ -20,6 +20,3 @@
  </body>
 </html>
 
-
-https://hunn5.wordpress.com/
-https://hunn5.wordpress.com/wp-admin/post.php?post=17&action=edit
